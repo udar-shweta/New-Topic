@@ -5,3 +5,16 @@
 //EXAMPLE
 
 int a[]=new int[6];
+
+//How to insert elements in array
+
+//syntax
+array_name(variable name)[index_number]=vale (vale type should be same as that of declared data type of array);
+
+//example
+a[0]=10;
+a[4]=25;
+a[3]=30;
+a[1]=9;
+a[2]=20;
+a[5]=25;
